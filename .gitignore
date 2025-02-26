@@ -1,0 +1,6 @@
+#ignorar a pastta node_modules
+node_modules/
+
+#ignorar o package-lock.json
+package-lock.json
+
